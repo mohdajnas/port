@@ -1,0 +1,135 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "mohdajnas@yahoo.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:mohdajnas@yahoo.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 97453 22113",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+919745322113"
+      },
+      {
+        "type": "website",
+        "label": "www.ajnas.online",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.ajnas.online"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/mohmdajnaskp/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://www.facebook.com/ajnaaskp"
+      },
+      {
+        "platform": "twitter",
+        "icon": "/images/icon/twitter-icon.svg",
+        "link": "https://x.com/AjnasKP11"
+      },
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon.svg",
+        "link": "https://instagram.com/mohdajnaas"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/mohdajnas"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "SSLC - MESHSS - 2016-2019",
+        "description": "Completed SSLC with a strong academic foundation, actively participating in school-level activities and building core analytical and communication skills."
+      },
+      {
+        "title": "NSQF - Auto Service Technician (Level 4) - 2019-2021",
+        "description": "Completed vocational training in automotive service, gaining hands-on experience in vehicle maintenance, diagnostics, and technical problem-solving through a structured NSQF curriculum."
+      },
+      {
+        "title": "B.Tech in AI & Data Science - 2021-2025",
+        "description": "Pursued a comprehensive AI and Data Science program covering machine learning, deep learning, algorithms, and data analytics, with practical experience through real-world projects and industry internships."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Artificial Intelligence",
+        "icon": "/images/home/education-skill/ai-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Data Science",
+        "icon": "/images/home/education-skill/data-icon-2.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "R",
+        "icon": "/images/home/education-skill/r-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Data Visualization Tools",
+        "icon": "/images/home/education-skill/datavv-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "AWS",
+        "icon": "/images/home/education-skill/aws-icon.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/ajnaaskp"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/mohmdajnaskp/"
+      },
+      {
+        "title": "Twitter",
+        "href": "https://x.com/AjnasKP11"
+      },
+      {
+        "title": "Instagram",
+        "href": "https://instagram.com/mohdajnaas"
+      },
+      {
+        "title": "Github",
+        "href": "https://github.com/mohdajnas"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "mohdajnas@yahoo.com",
+        "link": "mailto:mohdajnas@yahoo.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 97453 22113",
+        "link": "tel:+919745322113"
+      }
+    ]
+  }
+}
